@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": [
+                "./src/*"
+            ]
+        },
+        // disable TSX if you really don’t want any TSX support
+        "allowJs": true,
+        "jsx": "preserve"
+    }
+}
