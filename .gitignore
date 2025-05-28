@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 **/src/components/ui
+**/venv
 
 
 # Editor directories and files
